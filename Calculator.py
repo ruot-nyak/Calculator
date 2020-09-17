@@ -7,7 +7,7 @@ ski_size= 182
 expert = + 10
 =======
 #introduction
-print("Ski Sizing Chart (Beginners)")
+print("Ski Sizing Calculator (Beginners)")
 
 #getting input from user
 height = float( input('How tall are you in cm? ') )
